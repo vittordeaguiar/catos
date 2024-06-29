@@ -1,12 +1,12 @@
 # Catos
 
-A Flutter application that displays random cat images fetched from a public API.
+Um aplicativo Flutter que exibe imagens aleatórias de gatos obtidas de uma API pública.
 
-## Features
+## Funcionalidades
 
-- Displays a random cat image.
-- Allows users to fetch a new random cat image by pressing a button.
+- Exibe uma imagem aleatória de gato.
+- Permite que os usuários busquem uma nova imagem aleatória de gato ao pressionar um botão.
 
 ## API
 
-This application uses [The Cat API](https://thecatapi.com/) to fetch random cat images.
+Este aplicativo utiliza [The Cat API](https://thecatapi.com/) para buscar imagens aleatórias de gatos.
