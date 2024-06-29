@@ -1,16 +1,12 @@
-# cat_images_app
+# Catos
 
-A new Flutter project.
+A Flutter application that displays random cat images fetched from a public API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays a random cat image.
+- Allows users to fetch a new random cat image by pressing a button.
 
-A few resources to get you started if this is your first Flutter project:
+## API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application uses [The Cat API](https://thecatapi.com/) to fetch random cat images.
