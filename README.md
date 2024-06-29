@@ -1,6 +1,7 @@
 # Catos
 
-Um aplicativo Flutter que exibe imagens aleatórias de gatos obtidas de uma API pública.
+- Um aplicativo Flutter que exibe imagens aleatórias de gatos obtidas de uma API pública.
+- Projeto simples feito com a finalidade de aprender fundamentos básicos de Dart e de Flutter.
 
 ## Funcionalidades
 
